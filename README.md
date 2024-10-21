@@ -19,7 +19,7 @@ This is a Node.js-based backend using Express, Mongoose, and CORS. It is configu
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Rohitkumar2618/Roxiler-MERN-task.git
    ```
 2. Navigate to the backend directory:
    ```bash
@@ -50,13 +50,7 @@ This is a Node.js-based backend using Express, Mongoose, and CORS. It is configu
 - **express**: Web framework for Node.js.
 - **mongoose**: ODM for MongoDB.
 
-### License
-
-This project is licensed under ISC.
-
----
-
-## Learning (Frontend)
+## Frontend
 
 ### Overview
 
@@ -131,4 +125,4 @@ This project is private.
 
 ### Author
 
-Feel free to add your name and additional details.
+Rohit Darunde
